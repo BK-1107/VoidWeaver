@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Void Weaver</h1>
-  <p><b>把参考图拆成可编辑的创作结构，再编织出新的视觉世界。</b></p>
+  <p><b>把图像拆成可编辑的创作结构，再编织出新的视觉世界。</b></p>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License"></a>
   <img src="https://img.shields.io/badge/frontend-React%2018-61dafb?style=flat-square" alt="React">
   <img src="https://img.shields.io/badge/backend-Spring%20Boot-6db33f?style=flat-square" alt="Spring Boot">
@@ -41,11 +41,11 @@ Void Weaver 想解决的是另一个问题：**怎样把一张参考图变成可
 
 在左侧设置栏填写 Gemini API Key，并选择生成引擎。NovelAI 适合二次元和风格化生成，Google Imagen 更适合写实与综合创意生成。
 
-### 2. 上传参考图
+### 2. 上传图像
 
 把图片拖入 Source Material 区域。它会成为后续解析、图生图和风格提取的基础。
 
-### 3. 解析参考图
+### 3. 解析图像
 
 点击 DECIPHER，系统会调用 Gemini 分析画面，并生成一组结构化模块，例如服装、背景、动作等。解析结果支持继续微调。
 

@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Void Weaver</h1>
-  <p><b>Turn reference images into editable creative structures, then weave new visual worlds.</b></p>
+  <p><b>Turn images into editable creative structures, then weave new visual worlds.</b></p>
   <a href="../LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License"></a>
   <img src="https://img.shields.io/badge/frontend-React%2018-61dafb?style=flat-square" alt="React">
   <img src="https://img.shields.io/badge/backend-Spring%20Boot-6db33f?style=flat-square" alt="Spring Boot">
@@ -40,11 +40,11 @@ Void Weaver is not a one-way tool where you enter a prompt and wait for an outpu
 
 Enter your Gemini API Key in the left settings sidebar and choose a generation engine. NovelAI is well suited for anime and stylized generation, while Google Imagen is better for realistic and broader creative outputs.
 
-### 2. Upload a reference image
+### 2. Upload an image
 
 Drag an image into the Source Material area. It becomes the source for analysis, image-to-image generation, and style extraction.
 
-### 3. Analyze the reference image
+### 3. Analyze the image
 
 Click DECIPHER. The system calls Gemini to analyze the image and generate structured modules, such as costume, background, and pose. The parsed result can be refined further.
 
